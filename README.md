@@ -12,6 +12,8 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 - :thought_balloon: A big believer that technology can resolve many issues
 - :handshake: I appreciate teamwork in workplaces
 
+<br>
+
 #
 
 <p align="center">
