@@ -1,8 +1,3 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<h2 align="center">I'am Denis Jonathan!</h2>
-
-<h3 align="left">About me:</h3>
 <span align="left">
   🤓 A Web Development student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.
 </span>
@@ -20,7 +15,6 @@
 <div align="center">
   <a href="https://github.com/denisjo7">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=denisjo7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisjo7&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
