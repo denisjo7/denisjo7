@@ -22,7 +22,6 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denis-jonathan"><img src="https://github.com/denisjo7/denisjo7/blob/main/linkedin.svg" width="35px" alt="LinkedIn icon"></a> &nbsp; &nbsp;
-  <a href="https://t.me/denisjonathan"><img src="https://github.com/denisjo7/denisjo7/blob/main/telegram.svg" width="35px" alt="Telegram icon"></a> &nbsp; &nbsp;
   <a href="mailto:denisjonathan7@gmail.com?subject=Hello%20Denis"><img src="https://github.com/denisjo7/denisjo7/blob/main/gmail.svg" width="35px" alt="Gmail icon"></a> &nbsp; &nbsp;
 </p>
 
